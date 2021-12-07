@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:07:13+05:00
+modified: 2021-12-08T01:08:32+05:00
 ---
 
 # telegram-kanallar
@@ -41,6 +41,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/uz_work
 * https://t.me/Workesss
 * https://t.me/freelancetaverna
+* https://t.me/Freelancer
+
 
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
