@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:29:29+05:00
+modified: 2021-12-08T01:30:43+05:00
 ---
 
 # telegram-kanallar
@@ -15,8 +15,10 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * uz https://t.me/Frameworkanlib / JavaScript Framworks, Library
 * https://t.me/mobi_dev / Актуальное по мобильной разработке — Android, iOS, кроссплатформа.
 * Другие языки https://t.me/cccoding
-* Веб/Фронтенд/Фулстек https://t.me/webchic
 * https://t.me/CybersUz / Uzb Dasturchilar
+
+### Frontend
+* Веб/Фронтенд/Фулстек https://t.me/webchic
 * https://t.me/frontendquestions / Задачки по Frontend  в виде опросов. Поможет вам начать разбираться в верстке и frontend разработке
 
 ### Python
