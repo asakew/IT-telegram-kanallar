@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T00:50:41+05:00
+modified: 2021-12-08T00:54:54+05:00
 ---
 
 # telegram-kanallar
@@ -14,8 +14,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 
 ## Photoshop
+* https://t.me/landyblog / Мы собираем полезные материалы для дизайнеров: теорию, инструменты, бесплатные файлы, статьи. А вы экономите время и остаётесь в тренде.
 * https://t.me/DesignWorld / Бесплатные материалы для Adobe Photoshop и Adobe Illustrator!
-
 
 ## SMM
 * https://t.me/paradigm_graphics / Информационно-новостной канал из сферы брендинга. Параграф о рекламе и графическом дизайне во всех его проявлениях. Работы агентств и фрилансеров со всего мира, результаты дизайн-конкурсов и фестивалей.
