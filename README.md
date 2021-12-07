@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T00:55:17+05:00
+modified: 2021-12-08T00:57:30+05:00
 ---
 
 # telegram-kanallar
@@ -30,3 +30,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/github_repos / Best GitHub projects.
 * https://t.me/githubtrending / See what the GitHub community is most excited about today.
 * https://t.me/github_uz / GitHub uz proektlarni to'plash va qullab-quvatlash.
+
+
+## Foydali 
+* https://t.me/MFaktorUz / Muvaffaqiyat va magʻlubiyat omillari.
