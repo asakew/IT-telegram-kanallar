@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:32:46+05:00
+modified: 2021-12-08T01:34:10+05:00
 ---
 
 # telegram-kanallar
@@ -20,10 +20,10 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 ### Frontend
 * https://t.me/frontendnoteschannel / Годные статьи для фронтенд программистов, HTML, CSS, javaScript, NodeJS, Development.
 
-Чаты: 
-CSS @css_ru
-Frontend @frontend_ru
-JS @javascript_ru
+#### Frontend chat
+CSS / https://t.me/css_ru
+Frontend / https://t.me/frontend_ru
+JS / https://t.me/javascript_ru
 
 * Веб/Фронтенд/Фулстек https://t.me/webchic
 * https://t.me/frontendquestions / Задачки по Frontend  в виде опросов. Поможет вам начать разбираться в верстке и frontend разработке
