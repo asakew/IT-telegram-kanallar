@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T00:43:23+05:00
+modified: 2021-12-08T00:48:25+05:00
 ---
 
 # telegram-kanallar
@@ -17,3 +17,9 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 ## Logo
 * [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум. / [Наш чат](https://t.me/logolovechat/) / [Наш сайт](www.Logolove.me/)
+
+
+## GitHub
+* https://t.me/github_repos / Best GitHub projects.
+* https://t.me/githubtrending / See what the GitHub community is most excited about today.
+* https://t.me/github_uz / GitHub uz proektlarni to'plash va qullab-quvatlash.
