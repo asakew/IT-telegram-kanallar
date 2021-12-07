@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:08:32+05:00
+modified: 2021-12-08T01:09:56+05:00
 ---
 
 # telegram-kanallar
@@ -47,3 +47,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
 * https://t.me/MFaktorFM / Kanalda audio kontenti 🎧Yurtimizdagi eng taniqli tadbirkorlarning eng yaxshi podkastlarini bizning kanalda tinglang
+
+
+## Telegram proxy's
+* https://t.me/ProxyMTProto
