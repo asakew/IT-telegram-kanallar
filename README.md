@@ -1,11 +1,10 @@
 ---
-modified: 2021-12-08T01:50:58+05:00
+modified: 2021-12-08T02:26:10+05:00
 ---
 
 # telegram-kanallar
 
 Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
-
 
 ## IT Blog
 * https://t.me/ITmavzu
