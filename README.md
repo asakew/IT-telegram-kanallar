@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:16:20+05:00
+modified: 2021-12-08T01:18:40+05:00
 ---
 
 # telegram-kanallar
@@ -24,11 +24,14 @@ modified: 2021-12-08T01:16:20+05:00
 * https://t.me/muhammadyunus_uz / Dasturlashga oid yangiliklar, tavsiyalar, darsliklar va hk.
 Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yib boriladi.
 
+## Design
+* https://t.me/awdee / Журнал о дизайне и для дизайнеров. Вдохновение, обучение, инструменты.
+* https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
+
 
 ## Photoshop
 * https://t.me/landyblog / Мы собираем полезные материалы для дизайнеров: теорию, инструменты, бесплатные файлы, статьи. А вы экономите время и остаётесь в тренде.
 * https://t.me/DesignWorld / Бесплатные материалы для Adobe Photoshop и Adobe Illustrator!
-* https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
 
 
 ## SMM
