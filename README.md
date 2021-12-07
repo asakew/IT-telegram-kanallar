@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:30:43+05:00
+modified: 2021-12-08T01:31:10+05:00
 ---
 
 # telegram-kanallar
@@ -24,7 +24,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 ### Python
 * https://t.me/pythonamazing / Только крутые скрипты.👊Только промышленный код. ‍💻 Только интерактивный подход .🐍
 * Второй канал https://t.me/python_lounge
-* https://t.me/pythonbooks
+* https://t.me/pythonbooks / Книги по программированию для будущего Python Developera. Русские и на языке оригинала. Все в PDF.
 
 
 ## Shaxsiy blog
