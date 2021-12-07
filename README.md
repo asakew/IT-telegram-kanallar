@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:39:11+05:00
+modified: 2021-12-08T01:40:57+05:00
 ---
 
 # telegram-kanallar
@@ -46,6 +46,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/muhammadyunus_uz / Dasturlashga oid yangiliklar, tavsiyalar, darsliklar va hk.
 Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yib boriladi.
 
+
 ## Design
 * https://t.me/awdee / Журнал о дизайне и для дизайнеров. Вдохновение, обучение, инструменты.
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
@@ -81,6 +82,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
 * https://t.me/MFaktorFM / Kanalda audio kontenti 🎧Yurtimizdagi eng taniqli tadbirkorlarning eng yaxshi podkastlarini bizning kanalda tinglang
+* https://t.me/music_muzyka / Подпишись и следи за музыкальными трендами !
+* https://t.me/muztvnet / Uzbek boshqa musiqalar.
 
 ## MS Office
 * https://t.me/hacks_excel / Научим тебя эффективной работе в Excel.
