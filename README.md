@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:40:57+05:00
+modified: 2021-12-08T01:50:58+05:00
 ---
 
 # telegram-kanallar
@@ -12,6 +12,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/Informatika
 * https://t.me/UstozShogird
 * https://t.me/ithumor / Развлекаем программистов.
+* https://t.me/itlecture / Обучающие видео по программированию, ИИ, веб-дизайну и многое другое, полезное для всех айтишников и тех, кто хочет ими стать. 
 
 
 ## Dasturlash tillari
