@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T00:40:02+05:00
+modified: 2021-12-08T00:41:35+05:00
 ---
 
 # telegram-kanallar
@@ -8,6 +8,9 @@ modified: 2021-12-08T00:40:02+05:00
 * https://t.me/paiziev24 / Akmal Payziyev — Newmax Technologies kompaniyalar guruhining (MyTaxi, Express24, Workly, Maxtrack) asoschisi va boshqaruvchisiman. O’zbekistonda biznes va rivojlanishga oid yangiliklar bilan 24/7 formatida bo’lishaman.
 
 * https://t.me/azizrakhimov_blog / Ichki xotirjamlik sari, MERIT maktablari va o'quv markazlari asoschilaridan biri. 
+
+* https://t.me/muhammadyunus_uz / Dasturlashga oid yangiliklar, tavsiyalar, darsliklar va hk.
+Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yib boriladi.
 
 
 ## Logo
