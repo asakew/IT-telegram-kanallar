@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:15:31+05:00
+modified: 2021-12-08T01:16:20+05:00
 ---
 
 # telegram-kanallar
@@ -28,6 +28,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 ## Photoshop
 * https://t.me/landyblog / Мы собираем полезные материалы для дизайнеров: теорию, инструменты, бесплатные файлы, статьи. А вы экономите время и остаётесь в тренде.
 * https://t.me/DesignWorld / Бесплатные материалы для Adobe Photoshop и Adobe Illustrator!
+* https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
 
 
 ## SMM
