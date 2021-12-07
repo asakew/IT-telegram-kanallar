@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T00:50:08+05:00
+modified: 2021-12-08T00:50:41+05:00
 ---
 
 # telegram-kanallar
@@ -12,12 +12,14 @@ modified: 2021-12-08T00:50:08+05:00
 * https://t.me/muhammadyunus_uz / Dasturlashga oid yangiliklar, tavsiyalar, darsliklar va hk.
 Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yib boriladi.
 
+
 ## Photoshop
 * https://t.me/DesignWorld / Бесплатные материалы для Adobe Photoshop и Adobe Illustrator!
 
 
 ## SMM
 * https://t.me/paradigm_graphics / Информационно-новостной канал из сферы брендинга. Параграф о рекламе и графическом дизайне во всех его проявлениях. Работы агентств и фрилансеров со всего мира, результаты дизайн-конкурсов и фестивалей.
+
 
 ## Logo
 * [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум. / [Наш чат](https://t.me/logolovechat/) / [Наш сайт](www.Logolove.me/)
