@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:25:51+05:00
+modified: 2021-12-08T01:26:13+05:00
 ---
 
 # telegram-kanallar
@@ -9,6 +9,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 
 ## IT Blog
 * https://t.me/ITmavzu
+* https://t.me/Informatika
 
 ## Dasturlash tillari
 * https://t.me/pythonamazing / Только крутые скрипты.👊Только промышленный код. ‍💻 Только интерактивный подход .🐍
