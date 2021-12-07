@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:37:07+05:00
+modified: 2021-12-08T01:38:19+05:00
 ---
 
 # telegram-kanallar
@@ -47,6 +47,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 ## Design
 * https://t.me/awdee / Журнал о дизайне и для дизайнеров. Вдохновение, обучение, инструменты.
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
+* https://t.me/thedesigner / Делимся с вами полезностями со всего интернета по веб-дизайну. 
 
 
 ## Photoshop
@@ -59,7 +60,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 
 ## Logo
-* [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум. / [Наш чат](https://t.me/logolovechat/) / [Наш сайт](www.Logolove.me/)
+* [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум.
 
 
 ## GitHub
