@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T01:21:56+05:00
+modified: 2021-12-08T01:24:11+05:00
 ---
 
 # telegram-kanallar
@@ -12,6 +12,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 
 ## Dasturlash tillari
 * https://t.me/pythonamazing / Только крутые скрипты.👊Только промышленный код. ‍💻 Только интерактивный подход .🐍
+* https://t.me/Frameworkanlib / JavaScript Framworks, Library
 * Второй канал https://t.me/python_lounge
 * Другие языки https://t.me/cccoding
 * Веб/Фронтенд/Фулстек https://t.me/webchic
