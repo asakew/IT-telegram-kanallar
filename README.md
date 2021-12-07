@@ -1,11 +1,14 @@
 ---
-modified: 2021-12-08T00:38:15+05:00
+modified: 2021-12-08T00:40:02+05:00
 ---
 
 # telegram-kanallar
 
 ## Shaxsiy blog
+* https://t.me/paiziev24 / Akmal Payziyev — Newmax Technologies kompaniyalar guruhining (MyTaxi, Express24, Workly, Maxtrack) asoschisi va boshqaruvchisiman. O’zbekistonda biznes va rivojlanishga oid yangiliklar bilan 24/7 formatida bo’lishaman.
+
 * https://t.me/azizrakhimov_blog / Ichki xotirjamlik sari, MERIT maktablari va o'quv markazlari asoschilaridan biri. 
+
 
 ## Logo
 * [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум. / [Наш чат](https://t.me/logolovechat/) / [Наш сайт](www.Logolove.me/)
