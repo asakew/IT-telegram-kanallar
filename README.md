@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T21:07:10+05:00
+modified: 2021-12-08T21:31:05+05:00
 ---
 
 # telegram-kanallar
@@ -17,6 +17,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/dailycoding / Канал, который научит вас программировать лучше и эффективнее. Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * https://t.me/unilecs / 🤘🏻Задачи, головоломки, книги и другие радости программиста.
 * https://t.me/itProger_official
+* 
 
 ### IT Comedy
 * https://t.me/godindev / Божественный программерский юмор
@@ -34,7 +35,8 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * Другие языки https://t.me/cccoding
 * https://t.me/CybersUz / Uzb Dasturchilar
 * https://t.me/webb_dev / Сообщество веб-разработчиков. На канале можно найти: видео-уроки, полезные статьи, новости из мира IT и веб-разработки.
-
+* https://t.me/phptoday
+* https://t.me/baldfrombrowser / Исламов Артём или лысый из браузера рассказывает о фрилансе, веб-разработке и жизни. Есть аудиоподкасты и статьи. 
 
 ### Frontend
 * https://t.me/webstandards_ru / Ежедневные новости и события фронтенда от сообщества веб-разработчиков.
@@ -42,6 +44,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * Веб/Фронтенд/Фулстек https://t.me/webchic
 * https://t.me/frontendquestions / Задачки по Frontend  в виде опросов. Поможет вам начать разбираться в верстке и frontend разработке
 * https://t.me/mayoquz / 
+* https://t.me/Darslik_uzbek
 
 ### Frontend chat
 * CSS / https://t.me/css_ru
@@ -69,7 +72,12 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/saidbeksarimsakov
 * https://t.me/inspired_engineer
 * https://t.me/Saidbek_Arislonov_CityTech / Dasturlash - Amerika standarti endi O'zbekistonda!
-
+* https://t.me/sardorbek_mukhiddinov / BIZNES 💰SMM Marketing 📊IT technolog 💻Media Dizayn 🎨
+* https://t.me/TashkentIT
+* https://t.me/devfarhod
+* https://t.me/mavlono_meme
+* https://t.me/codingvalley
+* https://t.me/kriptonuz
 
 ## Design
 * https://t.me/awdee / Журнал о дизайне и для дизайнеров. Вдохновение, обучение, инструменты.
@@ -81,16 +89,21 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/creativemotion / Арена дизайнеров,   Фотошоп батлы, Слив платных курсов, Новости трендов, PSD исходники;
 * https://t.me/kiguk_en / Хранилище не коммерческих проетков графического дизайнера)
 * https://t.me/toolbars / Уроки по Photoshop, Figma, разработке дизайна интерфейсов для веб сайтов и мобильных приложений. Премиум исходники, шрифты и мокапы. Все самые полезные дизайн файлы.
+* https://t.me/Photos
 
 
 ### Wep Dedign
 * https://t.me/ui_muse / Для тех, кто ищет вдохновение на свою творческую голову на просторах телеграма, 
 Насмотренность – это ваш визуальный опыт
-* https://t.me/figmaplugin
+* https://t.me/figmaplugin va https://t.me/figma_templates
 * https://t.me/design_mind / Дизайн-задачи для UI/UX дизайнеров
 * https://t.me/sociallyuz / UI, UX Design, other...
 * https://t.me/voidrainbow / ui, ux
 * https://t.me/designdealer
+* https://t.me/figma2html / Дизайн-макеты сайтов, которые можно сверстать и добавить в портфолио, новые макеты каждую неделю. 
+* https://t.me/designer_coffeehouse / pro / Ссылки на полезные материалы для дизайнеров
+* https://t.me/DesignBoard / UI, UX https://t.me/dsgn_study
+
 
 ### Design Blogers
 * https://t.me/oscar_blog / Заметки Оскара.
@@ -101,10 +114,12 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 
 ## Photoshop
+* https://t.me/EnvatoFreebies va https://t.me/DesignGoodies / 💎 Design Resources from Envato Market’s VideoHive, ThemeForest, PhotoDune, GraphicRiver, CodeCanyon, AudioJungle, 3DOcean and Envato Elements for Free! 
 * https://t.me/landyblog / Мы собираем полезные материалы для дизайнеров: теорию, инструменты, бесплатные файлы, статьи. А вы экономите время и остаётесь в тренде.
 * https://t.me/DesignWorld / Бесплатные материалы для Adobe Photoshop и Adobe Illustrator!
 * https://t.me/photoshopforyou
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
+* https://t.me/freemock_up, https://t.me/imockups
 
 ## SMM
 * https://t.me/paradigm_graphics / Информационно-новостной канал из сферы брендинга. Параграф о рекламе и графическом дизайне во всех его проявлениях. Работы агентств и фрилансеров со всего мира, результаты дизайн-конкурсов и фестивалей.
@@ -132,6 +147,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/wordpress_jobs
 * https://t.me/uzdesignfind
 * https://t.me/teamwork_uz
+* https://t.me/UzFreelanceJobs
 
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
@@ -143,6 +159,9 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/TADBIRKORUZB va https://t.me/Tadbirkorlar_KLUBI
 * https://t.me/Adobe_photoshop_bepul_darslar
 * https://t.me/Audio_Kutubxona_uz
+* https://t.me/jasurrfarmonovv / psixologiya haqida
+* https://t.me/torrent_igruha_org
+* https://t.me/startupclubytv
 
 ## MS Office
 * https://t.me/hacks_excel / Научим тебя эффективной работе в Excel.
