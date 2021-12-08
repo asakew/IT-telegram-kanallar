@@ -1,20 +1,17 @@
 ---
-modified: 2021-12-08T19:41:44+05:00
+modified: 2021-12-08T19:50:46+05:00
 ---
 
 # telegram-kanallar
 
 Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 
-<details markdown='1'><summary>IT Blog</summary>
-
+## IT Blog
 * https://t.me/ITmavzu
 * https://t.me/Informatika
 * https://t.me/UstozShogird va https://t.me/UstozShogirdSohalar
 * https://t.me/ithumor / Развлекаем программистов.
 * https://t.me/itlecture / Обучающие видео по программированию, ИИ, веб-дизайну и многое другое, полезное для всех айтишников и тех, кто хочет ими стать. 
-
-</details>
 
 
 ## Dasturlash tillari
@@ -100,4 +97,3 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 ## Telegram proxy's
 * https://t.me/ProxyMTProto
-*
