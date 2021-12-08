@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T21:52:37+05:00
+modified: 2021-12-08T22:02:22+05:00
 ---
 
 # telegram-kanallar
@@ -19,8 +19,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/itProger_official
 * https://t.me/thestartupuz / uzbek tilida web darslar
 * https://t.me/progerlive / Дастурчилар, веб-дизайнерлар, ИТ мутахассислари ва қизиқувчилар учун.
-
-
+* https://t.me/devbros_uz
 
 ### IT Comedy
 * https://t.me/godindev / Божественный программерский юмор
@@ -28,7 +27,7 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/ithumor / Развлекаем программистов.
 * https://t.me/g_code
 * https://t.me/prod_one
-* 
+
 
 ## Dasturlash tillari
 * https://t.me/itlecture / Обучающие видео по программированию, ИИ, веб-дизайну и многое другое, полезное для всех айтишников и тех, кто хочет ими стать.
@@ -87,6 +86,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/kriptonuz
 * https://t.me/YOUNUGAEV
 * https://t.me/ism4t
+* https://t.me/CreativeUzbek
 
 
 ## Design
@@ -117,6 +117,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/DesignBoard / UI, UX https://t.me/dsgn_study
 * https://t.me/web_muse
 * https://t.me/designertyt / IU, UX
+* https://t.me/adobe_xd_design
 
 
 ### Design Blogers
@@ -136,6 +137,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
 * https://t.me/freemock_up, https://t.me/imockups
 * https://t.me/PhotoShopAllTimeFree
+* https://t.me/mockupsfree
 
 ## SMM
 * https://t.me/paradigm_graphics / Информационно-новостной канал из сферы брендинга. Параграф о рекламе и графическом дизайне во всех его проявлениях. Работы агентств и фрилансеров со всего мира, результаты дизайн-конкурсов и фестивалей.
@@ -188,6 +190,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 ## Telegram proxy's
 * https://t.me/ProxyMTProto
 
+
 ## Kinolar
 * https://t.me/YesUzbOfficial
-*
+* https://t.me/Netflix_seriesbot
