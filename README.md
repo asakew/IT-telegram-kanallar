@@ -1,17 +1,20 @@
 ---
-modified: 2021-12-08T02:26:10+05:00
+modified: 2021-12-08T19:41:44+05:00
 ---
 
 # telegram-kanallar
 
 Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 
-## IT Blog
+<details markdown='1'><summary>IT Blog</summary>
+
 * https://t.me/ITmavzu
 * https://t.me/Informatika
-* https://t.me/UstozShogird
+* https://t.me/UstozShogird va https://t.me/UstozShogirdSohalar
 * https://t.me/ithumor / Развлекаем программистов.
 * https://t.me/itlecture / Обучающие видео по программированию, ИИ, веб-дизайну и многое другое, полезное для всех айтишников и тех, кто хочет ими стать. 
+
+</details>
 
 
 ## Dasturlash tillari
@@ -52,6 +55,9 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
 * https://t.me/thedesigner / Делимся с вами полезностями со всего интернета по веб-дизайну. 
 
+### Wep Dedign
+- https://t.me/ui_muse
+
 
 ## Photoshop
 * https://t.me/landyblog / Мы собираем полезные материалы для дизайнеров: теорию, инструменты, бесплатные файлы, статьи. А вы экономите время и остаётесь в тренде.
@@ -78,10 +84,13 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/freelancetaverna
 * https://t.me/Freelancer
 * https://t.me/jobs_designglory
+* VAKANTSIYA.UZ - telegramda izlaganda chiqadi.
+
 
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
-* https://t.me/MFaktorFM / Kanalda audio kontenti 🎧Yurtimizdagi eng taniqli tadbirkorlarning eng yaxshi podkastlarini bizning kanalda tinglang
+* https://t.me/MFaktorFM / Kanalda audio kontenti 🎧Yurtimizdagi eng taniqli tadbirkorlarning eng yaxshi podkastlarini bizning kanalda tinglang.
+* https://t.me/tutorialsuz
 * https://t.me/music_muzyka / Подпишись и следи за музыкальными трендами !
 * https://t.me/muztvnet / Uzbek boshqa musiqalar.
 
@@ -91,3 +100,4 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 ## Telegram proxy's
 * https://t.me/ProxyMTProto
+*
