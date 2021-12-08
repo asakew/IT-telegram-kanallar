@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T21:31:05+05:00
+modified: 2021-12-08T21:52:37+05:00
 ---
 
 # telegram-kanallar
@@ -17,7 +17,10 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/dailycoding / Канал, который научит вас программировать лучше и эффективнее. Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * https://t.me/unilecs / 🤘🏻Задачи, головоломки, книги и другие радости программиста.
 * https://t.me/itProger_official
-* 
+* https://t.me/thestartupuz / uzbek tilida web darslar
+* https://t.me/progerlive / Дастурчилар, веб-дизайнерлар, ИТ мутахассислари ва қизиқувчилар учун.
+
+
 
 ### IT Comedy
 * https://t.me/godindev / Божественный программерский юмор
@@ -37,14 +40,18 @@ Bu Telegram kanal va guruhlarga a'zo bo'lganman) Balkim sizlargaham yoqar)))
 * https://t.me/webb_dev / Сообщество веб-разработчиков. На канале можно найти: видео-уроки, полезные статьи, новости из мира IT и веб-разработки.
 * https://t.me/phptoday
 * https://t.me/baldfrombrowser / Исламов Артём или лысый из браузера рассказывает о фрилансе, веб-разработке и жизни. Есть аудиоподкасты и статьи. 
+* https://t.me/virtualdars / Eng oson dasturlash darslari.
+C#, SQL, .Net Core, Web API, JavaScript, Angular, Java, HTML, CSS, PHP, MySql, Oracle, Python, Delphi, REST, SOAP, Full Stack, SOLID, Data structures, Git...
+
 
 ### Frontend
 * https://t.me/webstandards_ru / Ежедневные новости и события фронтенда от сообщества веб-разработчиков.
 * https://t.me/frontendnoteschannel / Годные статьи для фронтенд программистов, HTML, CSS, javaScript, NodeJS, Development.
 * Веб/Фронтенд/Фулстек https://t.me/webchic
 * https://t.me/frontendquestions / Задачки по Frontend  в виде опросов. Поможет вам начать разбираться в верстке и frontend разработке
-* https://t.me/mayoquz / 
+* https://t.me/mayoquz
 * https://t.me/Darslik_uzbek
+* https://t.me/Html_templates
 
 ### Frontend chat
 * CSS / https://t.me/css_ru
@@ -78,6 +85,9 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/mavlono_meme
 * https://t.me/codingvalley
 * https://t.me/kriptonuz
+* https://t.me/YOUNUGAEV
+* https://t.me/ism4t
+
 
 ## Design
 * https://t.me/awdee / Журнал о дизайне и для дизайнеров. Вдохновение, обучение, инструменты.
@@ -90,6 +100,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/kiguk_en / Хранилище не коммерческих проетков графического дизайнера)
 * https://t.me/toolbars / Уроки по Photoshop, Figma, разработке дизайна интерфейсов для веб сайтов и мобильных приложений. Премиум исходники, шрифты и мокапы. Все самые полезные дизайн файлы.
 * https://t.me/Photos
+* https://t.me/ayubovdesign
+* https://t.me/Colors_Palette
 
 
 ### Wep Dedign
@@ -103,6 +115,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/figma2html / Дизайн-макеты сайтов, которые можно сверстать и добавить в портфолио, новые макеты каждую неделю. 
 * https://t.me/designer_coffeehouse / pro / Ссылки на полезные материалы для дизайнеров
 * https://t.me/DesignBoard / UI, UX https://t.me/dsgn_study
+* https://t.me/web_muse
+* https://t.me/designertyt / IU, UX
 
 
 ### Design Blogers
@@ -111,6 +125,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/farelyspace / Канал с вдохновением для любителей фотошопить. FARELY pro designer)
 * https://t.me/kadirovgroup
 * https://t.me/jaloliddin_blog
+* https://t.me/ayubovdesign
 
 
 ## Photoshop
@@ -120,6 +135,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/photoshopforyou
 * https://t.me/design_hell / Дизайн-треш - первый канал о интересном и местами чекнутым фотошопе!
 * https://t.me/freemock_up, https://t.me/imockups
+* https://t.me/PhotoShopAllTimeFree
 
 ## SMM
 * https://t.me/paradigm_graphics / Информационно-новостной канал из сферы брендинга. Параграф о рекламе и графическом дизайне во всех его проявлениях. Работы агентств и фрилансеров со всего мира, результаты дизайн-конкурсов и фестивалей.
@@ -127,7 +143,7 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 
 ## Logo
 * [Logolove](https://t.me/logoloveme/) — это интернет-издание о графическом дизайне и логотипах. У нас вы найдете все необходимое чтобы развивать свои дизайнерские суперспособности на максимум.
-
+* https://t.me/logotypes
 
 ## GitHub
 * https://t.me/github_repos / Best GitHub projects.
