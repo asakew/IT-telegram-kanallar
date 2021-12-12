@@ -1,5 +1,5 @@
 ---
-modified: 2021-12-08T22:02:22+05:00
+modified: 2021-12-12T12:40:46+05:00
 ---
 
 # telegram-kanallar
@@ -166,6 +166,8 @@ Bundan tashqari kanalda muallifning shaxsiy hayotidagi yutuqlari, fikrlari qo'yi
 * https://t.me/uzdesignfind
 * https://t.me/teamwork_uz
 * https://t.me/UzFreelanceJobs
+* https://t.me/vacancy_argos / Давлат фуқаролик хизматчилари вакант лавозимларининг ягона очиқ портали расмий канали
+
 
 ## Foydali 
 * https://t.me/MFaktorUZ / Muvaffaqiyat va magʻlubiyat omillari.
